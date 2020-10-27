@@ -2,3 +2,8 @@ h1 {
   font-size: 5rem;
   font-style: italic;
 }
+
+h3 {
+  color: tomato;
+  font-weight: normal;
+}
